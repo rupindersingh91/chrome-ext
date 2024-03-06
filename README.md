@@ -18,13 +18,13 @@ Follow these steps to install the Weather Chrome Extension:
    git clone https://github.com/rupindersingh91/chrome-ext.git
 
 
-Open Google Chrome and navigate to chrome://extensions/.
+2. Open Google Chrome and navigate to chrome://extensions/.
 
-Enable "Developer mode" in the top right corner.
+3. Enable "Developer mode" in the top right corner.
 
-Click on "Load unpacked" and select the folder where you cloned the repository.
+4. Click on "Load unpacked" and select the folder where you cloned the repository.
 
-The Weather Chrome Extension will be added to your extensions. You should now see its icon in the Chrome toolbar.
+5. The Weather Chrome Extension will be added to your extensions. You should now see its icon in the Chrome toolbar.
 
 ## Contributing
 
@@ -34,17 +34,14 @@ Fork the repository.
 
 Create a new branch for your feature or bug fix.
 
-```bash
-    git checkout -b feature/my-feature
+``` bash git checkout -b feature/my-feature ```
 
 Make your changes and commit them.
 
-``` bash
-    git commit -m "Add my awesome feature"
+``` bash git commit -m "Add my awesome feature" ```
 
 Push the changes to your fork.
 
-``` bash
-    git push origin feature/my-feature
+``` bash git push origin feature/my-feature ```
 
 Open a pull request, and describe your changes.
