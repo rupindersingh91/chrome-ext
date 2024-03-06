@@ -17,7 +17,6 @@ Follow these steps to install the Weather Chrome Extension:
    ```bash
    git clone https://github.com/rupindersingh91/chrome-ext.git
 
-
 2. Open Google Chrome and navigate to chrome://extensions/.
 
 3. Enable "Developer mode" in the top right corner.
