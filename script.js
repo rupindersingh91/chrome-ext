@@ -1,5 +1,5 @@
 async function fetchData() {
-  const res = await fetch("https://api.weatherapi.com/v1/current.json?key={APIKEY}&q={CITY}");
+  const res = await fetch("https://api.weatherapi.com/v1/current.json?key=3139c695e43d4fc5baf51437240603&q=ludhiana");
   const record = await res.json();
 
   var currentIcon = document.getElementById("current-icon");
