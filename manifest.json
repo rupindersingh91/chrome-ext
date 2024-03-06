@@ -1,0 +1,11 @@
+{
+    "name": "Today's Weather",
+    "version": "1.0.0",
+    "description": "Current Weather",
+    "manifest_version": 3,
+    "author": "Rupinder Singh",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Current Weather Report"
+    }
+}
